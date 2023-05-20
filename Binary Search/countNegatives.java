@@ -16,11 +16,6 @@ Output: 0
 
 */
 
-
-
-
-
-
 class Solution {
     public int countNegatives(int[][] grid) {
         int count = 0;
