@@ -4,12 +4,12 @@ public class palindrome{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
-        String rev = "";
+        String reverse = "";
         int len = str.length();
         for(int i = len-1; i>=0; i--){
-            rev = rev + str.charAt(i);
+            reverse = reverse + str.charAt(i);
         }
-        if(str.equals(rev)){
+        if(str.equals(reverse)){
             System.out.println("Palindrome");
         }
         else{
