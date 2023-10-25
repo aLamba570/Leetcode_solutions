@@ -4,19 +4,7 @@ class Solution {
     int m = nums1.length;
     int n = nums2.length;
 
-    if (nums1.length == 0) {
-        if (nums2.length % 2 == 0) {
-            return (nums2[nums2.length / 2 - 1] + nums2[nums2.length / 2]) / 2.0;
-        } else {
-            return nums2[nums2.length / 2];
-        }
-    } else if (nums2.length == 0) {
-        if (nums1.length % 2 == 0) {
-            return (nums1[nums1.length / 2 - 1] + nums1[nums1.length / 2]) / 2.0;
-        } else {
-            return nums1[nums1.length / 2];
-        }
-    }
+    
 
     int z = m+n;
 
