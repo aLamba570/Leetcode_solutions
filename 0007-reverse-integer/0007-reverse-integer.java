@@ -1,21 +1,16 @@
 class Solution {
     public int reverse(int x) {
-        boolean negative = false;
-        if (x < 0) {
-            negative = true;
-            x = -x;
-        }
+        long rev = 0;
 
-        long reversed = 0;
-        while (x > 0) {
-            reversed = reversed * 10 + x % 10;
+        while (x != 0) {
+            rev = rev * 10 + x % 10;
             x /= 10;
         }
 
-        if (reversed > Integer.MAX_VALUE) {
-            return 0;
+        if (rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE) {
+            return 0; // Handle integer overflow
         }
 
-        return negative ? -(int) reversed : (int) reversed;
+        return (int) rev;
     }
 }
