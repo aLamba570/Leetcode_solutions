@@ -1,14 +1,14 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-         
-        char[] charArray1 = s.toCharArray();
-        char[] charArray2 = t.toCharArray();
-        Arrays.sort(charArray1);
-        Arrays.sort(charArray2);
+        char [] arr1 = s.toCharArray();
+        char [] arr2 = t.toCharArray();
 
-         if(Arrays.equals(charArray1, charArray2)){
-             return true;
-         }
-         return false;
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+
+        if(Arrays.equals(arr1, arr2)){
+            return true;
+        }
+        return false;
     }
 }
