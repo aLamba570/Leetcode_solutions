@@ -16,28 +16,21 @@ class Solution {
         }
 
         HashMap<Character, Integer> map1 = new HashMap<>();
-        // HashMap<Character, Integer> map2 = new HashMap<>();
+        HashMap<Character, Integer> map2 = new HashMap<>();
 
         for(char c : s.toCharArray()){
             map1.put(c, map1.getOrDefault(c, 0) +1);
         }
 
-        // for(char c : t.toCharArray()){
-        //     map2.put(c, map2.getOrDefault(c, 0) + 1);
-        // }
-
         for(char c : t.toCharArray()){
-            if(!map1.containsKey(c) || map1.get(c) <=0){
-                return false;
-            }
-            map1.put(c, map1.get(c)-1);
+            map2.put(c, map2.getOrDefault(c, 0) + 1);
         }
 
-        // for(char c : map1.keySet()){
-        //     if(!map2.containsKey(c) || !map2.get(c).equals(map1.get(c))){
-        //         return false;
-        //     }
-        // }
+        for(char c : map1.keySet()){
+            if(!map2.containsKey(c) || !map2.get(c).equals(map1.get(c))){
+                return false;
+            }
+        }
         return true;
     }
 }
