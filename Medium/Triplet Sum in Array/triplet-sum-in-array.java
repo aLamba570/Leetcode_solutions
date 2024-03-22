@@ -34,33 +34,32 @@ class Solution
 {
     //Function to find if there exists a triplet in the 
     //array A[] which sums up to X.
-    public static boolean find3Numbers(int A[], int n, int X) { 
+    public static boolean find3Numbers(int a[], int n, int X) { 
     
        // Your code Here
-       Arrays.sort(A);
-       
+       Arrays.sort(a);
        for(int i = 0; i<n-2; i++){
-           if (i > 0 && A[i] == A[i - 1]) {
-                continue;
-            }
-            
-            int left = i+1;
-            int right = n-1;
-            int target = X - A[i];
-            
-            while(left<right){
-                int sum = A[left] + A[right];
-                
-                if(sum == target){
-                    return true;
-                }
-                else if(sum < target){
-                    left++;
-                }
-                else{
-                    right--;
-                }
-            }
+        //   if(i>0 && a[i] == a[i-1]){
+        //       continue;
+        //   }
+           
+           int start = i+1;
+           int end = n-1;
+           int ans = X-a[i];
+           
+           while(start<end){
+               int sum = a[start] + a[end];
+               
+               if(ans == sum){
+                   return true;
+               }
+               else if(sum<ans){
+                   start++;
+               }
+               else{
+                   end--;
+               }
+           }
        }
        return false;
     
