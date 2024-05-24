@@ -46,6 +46,8 @@ class Array {
 
 
 
+
+
 class Solution {
     // Function to find the leaders in the array.
     static ArrayList<Integer> leaders(int arr[], int n) {
@@ -55,18 +57,21 @@ class Solution {
         list.add(maxRight);
 
         for (int i = arr.length - 2; i >= 0; i--) {
-            if (arr[i] >= maxRight) { 
+            if (arr[i] >= maxRight) { // Modified condition to include duplicate values
                 list.add(arr[i]);
                 maxRight = arr[i];
             }
         }
         
-        ArrayList<Integer> result = new ArrayList<>();
+        // ArrayList<Integer> result = new ArrayList<>();
         
-        for(int i = list.size()-1; i>=0; i--){
-            result.add(list.get(i));
-        }
-        return result;
+        // for(int i = list.size()-1; i>=0; i--){
+        //     result.add(list.get(i));
+        // }
+        // return result;
+        
+        Collections.reverse(list);
+        return list;
     }
 }
 
