@@ -17,6 +17,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aLamba570/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 # Array
 |  |
@@ -51,3 +53,7 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+# Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
