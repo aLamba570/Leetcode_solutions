@@ -47,26 +47,30 @@ class Array {
 //User function Template for Java
 
 class Solution{
+    
+   
     // Function for finding maximum and value pair
     public static int lenOfLongSubarr (int nums[], int n, int k) {
         //Complete the function
-        HashMap<Integer, Integer> map = new HashMap<>();
         int count = 0;
-        int currentSum = 0;
+        int sum = 0;
+        
+        HashMap<Integer, Integer> map = new HashMap<>();
         
         map.put(0,-1);
         
-        for(int i = 0; i<n; i++){
-            currentSum += nums[i];
+        for(int i = 0; i<nums.length; i++){
+            sum += nums[i];
             
-            if(map.containsKey(currentSum-k)){
-                count = Math.max(count, i-map.get(currentSum-k));
+            if(map.containsKey(sum - k)){
+                count = Math.max(count, i - map.get(sum-k));
             }
-            
-            map.putIfAbsent(currentSum, i);
+            map.putIfAbsent(sum, i);
         }
         return count;
     }
+    
+    
 }
 
 
