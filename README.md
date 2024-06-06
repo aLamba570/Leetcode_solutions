@@ -30,3 +30,15 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+# Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
