@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 # Array
 |  |
 | ------- |
@@ -42,3 +43,11 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+# Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
