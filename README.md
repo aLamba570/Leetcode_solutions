@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -57,3 +58,15 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+# Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+# Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+# Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
