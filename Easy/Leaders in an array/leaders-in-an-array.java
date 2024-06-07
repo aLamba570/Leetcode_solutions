@@ -45,33 +45,22 @@ class Array {
 // } Driver Code Ends
 
 
-
-
-
-class Solution {
-    // Function to find the leaders in the array.
-    static ArrayList<Integer> leaders(int arr[], int n) {
-       ArrayList<Integer> list = new ArrayList<>();
-        int maxRight = arr[n - 1];
-
-        list.add(maxRight);
-
-        for (int i = arr.length - 2; i >= 0; i--) {
-            if (arr[i] >= maxRight) { // Modified condition to include duplicate values
+class Solution{
+    //Function to find the leaders in the array.
+    static ArrayList<Integer> leaders(int arr[], int n){
+        // Your code here
+        ArrayList<Integer> list = new ArrayList<>();
+        int max = arr[n-1];
+        
+        list.add(max);
+        for(int i = arr.length -2; i>=0; i--){
+            if(arr[i]>=max){
                 list.add(arr[i]);
-                maxRight = arr[i];
+                max = arr[i];
             }
         }
-        
-        // ArrayList<Integer> result = new ArrayList<>();
-        
-        // for(int i = list.size()-1; i>=0; i--){
-        //     result.add(list.get(i));
-        // }
-        // return result;
         
         Collections.reverse(list);
         return list;
     }
 }
-
