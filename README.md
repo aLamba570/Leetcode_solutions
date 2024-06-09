@@ -15,6 +15,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aLamba570/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aLamba570/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/aLamba570/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
 # Divide and Conquer
 |  |
@@ -70,3 +72,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aLamba570/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
