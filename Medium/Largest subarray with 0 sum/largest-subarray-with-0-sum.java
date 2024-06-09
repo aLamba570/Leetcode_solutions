@@ -33,27 +33,22 @@ class GfG
     {
         // Your code here
         HashMap<Integer, Integer> map = new HashMap<>();
-        int maxLen = 0;
+        int count = 0;
         int sum = 0;
-
-        for (int i = 0; i < arr.length; i++) {
+        
+        for(int i = 0; i<n; i++){
             sum += arr[i];
-
-            if (arr[i] == 0 && maxLen == 0) {
-                maxLen = 1;
+            
+            if(sum == 0){
+                count = i+1;
             }
-
-            if (sum == 0) {
-                maxLen = i + 1;
-            }
-
-            if (map.containsKey(sum)) {
-                maxLen = Math.max(maxLen, i - map.get(sum));
-            } else {
+            
+            if(map.containsKey(sum)){
+                count = Math.max(count , i - map.get(sum));
+            }else{
                 map.put(sum, i);
             }
         }
-
-        return maxLen;
+        return count;
     }
 }
