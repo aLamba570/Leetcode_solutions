@@ -18,6 +18,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aLamba570/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aLamba570/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aLamba570/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aLamba570/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aLamba570/Leetcode_solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/aLamba570/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/aLamba570/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aLamba570/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 # Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/aLamba570/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/2032-largest-odd-number-in-string) |
 # Greedy
 |  |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/aLamba570/Leetcode_solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/aLamba570/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
