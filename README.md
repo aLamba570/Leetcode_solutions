@@ -88,5 +88,18 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [3396-valid-word](https://github.com/aLamba570/Leetcode_solutions/tree/master/3396-valid-word) |
+## Array
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
