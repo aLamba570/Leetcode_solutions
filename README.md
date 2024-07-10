@@ -102,4 +102,20 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+## Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aLamba570/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aLamba570/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aLamba570/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/aLamba570/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
