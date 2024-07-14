@@ -94,6 +94,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
