@@ -98,6 +98,7 @@
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
@@ -133,6 +135,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
