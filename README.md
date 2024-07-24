@@ -149,4 +149,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/aLamba570/Leetcode_solutions/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
