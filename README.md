@@ -98,6 +98,7 @@
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/aLamba570/Leetcode_solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
