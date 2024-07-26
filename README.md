@@ -146,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/aLamba570/Leetcode_solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
@@ -154,6 +155,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
 |  |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
