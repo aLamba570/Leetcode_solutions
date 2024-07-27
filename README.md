@@ -91,6 +91,7 @@
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/aLamba570/Leetcode_solutions/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -102,6 +103,7 @@
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
 | ------- |
@@ -187,4 +189,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
