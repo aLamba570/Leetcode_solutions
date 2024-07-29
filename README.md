@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
