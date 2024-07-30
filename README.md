@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aLamba570/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -139,6 +140,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aLamba570/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aLamba570/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
