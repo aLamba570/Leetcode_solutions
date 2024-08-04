@@ -103,6 +103,7 @@
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 ## Tree
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aLamba570/Leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
