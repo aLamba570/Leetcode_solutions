@@ -93,6 +93,7 @@
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/aLamba570/Leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/aLamba570/Leetcode_solutions/tree/master/3396-valid-word) |
@@ -107,6 +108,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/aLamba570/Leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
@@ -150,6 +152,7 @@
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aLamba570/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/aLamba570/Leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/aLamba570/Leetcode_solutions/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
@@ -195,6 +198,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/aLamba570/Leetcode_solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Memoization
 |  |
 | ------- |
