@@ -7,7 +7,7 @@ class Solution {
             x/=10;
         }
 
-        if(rev>Integer.MAX_VALUE && rev< Integer.MIN_VALUE){
+        if(rev>Integer.MAX_VALUE || rev< Integer.MIN_VALUE){
             return 0;
         }
         return (int) rev;
