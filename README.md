@@ -189,17 +189,20 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aLamba570/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aLamba570/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/aLamba570/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aLamba570/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0445-add-two-numbers-ii](https://github.com/aLamba570/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
