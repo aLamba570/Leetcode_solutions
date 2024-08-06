@@ -180,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aLamba570/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aLamba570/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -252,4 +253,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aLamba570/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aLamba570/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aLamba570/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
