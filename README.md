@@ -180,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aLamba570/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0263-ugly-number) |
 ## Divide and Conquer
