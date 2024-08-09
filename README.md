@@ -148,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aLamba570/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -156,6 +157,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aLamba570/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aLamba570/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/aLamba570/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aLamba570/Leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aLamba570/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aLamba570/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0445-add-two-numbers-ii](https://github.com/aLamba570/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
