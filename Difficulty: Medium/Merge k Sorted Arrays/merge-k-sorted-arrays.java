@@ -38,12 +38,12 @@ class Solution
     public static ArrayList<Integer> mergeKArrays(int[][] arr,int k) 
     {
         // Write your code here.
-        ArrayList<Integer> list = new ArrayList<>(k*k);
+        ArrayList<Integer> list = new ArrayList<>();
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         
-        for(int[] a: arr){
-            for(int n: a){
-                pq.add(n);
+        for(int [] a: arr){
+            for(int num: a){
+                pq.add(num);
             }
         }
         
@@ -51,6 +51,5 @@ class Solution
             list.add(pq.poll());
         }
         return list;
-        
     }
 }
