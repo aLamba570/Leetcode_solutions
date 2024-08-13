@@ -248,6 +248,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/aLamba570/Leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/aLamba570/Leetcode_solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/aLamba570/Leetcode_solutions/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aLamba570/Leetcode_solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
