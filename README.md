@@ -90,6 +90,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aLamba570/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0065-valid-number) |
+| [0131-palindrome-partitioning](https://github.com/aLamba570/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aLamba570/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0692-top-k-frequent-words](https://github.com/aLamba570/Leetcode_solutions/tree/master/0692-top-k-frequent-words) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/aLamba570/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/aLamba570/Leetcode_solutions/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/aLamba570/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/aLamba570/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
