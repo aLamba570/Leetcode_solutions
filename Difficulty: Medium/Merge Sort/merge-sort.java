@@ -1,108 +1,99 @@
 //{ Driver Code Starts
+// Initial Template for Java
+
+import java.io.*;
+import java.lang.*;
 import java.util.*;
 
-class Merge_Sort
-{
-    //method to print the elements of the array
-	static void printArray(int arr[])
-    {
-        StringBuffer sb=new StringBuffer("");
-        int n = arr.length;
-        for (int i=0; i<n; ++i)
-            sb.append(arr[i]+" ");
-        System.out.println(sb.toString());
+class Main {
+    public static void main(String args[]) throws IOException {
+        BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(read.readLine());
+
+        while (t-- > 0) {
+
+            ArrayList<Integer> array1 = new ArrayList<Integer>();
+            String line = read.readLine();
+            String[] tokens = line.split(" ");
+            for (String token : tokens) {
+                array1.add(Integer.parseInt(token));
+            }
+            ArrayList<Integer> v = new ArrayList<Integer>();
+            int[] arr = new int[array1.size()];
+            int idx = 0;
+            for (int i : array1) arr[idx++] = i;
+
+            new Solution().mergeSort(arr, 0, arr.length - 1);
+
+            for (int i = 0; i < arr.length; i++) System.out.print(arr[i] + " ");
+
+            System.out.println();
+
+            System.out.println("~");
+        }
     }
-
-    
-
-	public static void main(String args[])
-	{
-	    //taking input using Scanner class
-		Scanner sc = new Scanner(System.in);
-		
-		//taking testcases
-		int T = sc.nextInt();
-		while(T>0)
-		{
-		    //taking elements count
-			int n = sc.nextInt();
-			
-			//creating an object of class Merge_Sort
-			Merge_Sort ms = new Merge_Sort();
-			
-			//creating an array of size n
-			int arr[] = new int[n];
-			
-			//adding elements to the array
-			for(int i=0;i<n;i++)
-				arr[i] = sc.nextInt();
-
-            
-			Solution g = new Solution();
-			
-			//calling the method mergeSort
-			g.mergeSort(arr,0,arr.length-1);
-
-            //calling the method printArray
-			ms.printArray(arr);
-		T--;
-		}
-	}
 }
-
-
 
 // } Driver Code Ends
 
 
-class Solution
-{
-    void merge(int arr[], int l, int m, int r)
-    {
-         // Your code here
-         int a = m+1-l;
-         int b = r-m;
-         
-         int[] a1 = new int[a];
-         int[] b1 = new int[b];
-         
-         for(int i = 0; i<a; i++){
-             a1[i] = arr[l+i];
-         }
-         
-         for(int i = 0; i<b; i++){
-             b1[i] = arr[m+1+i];
-         }
-         
-         int i = 0; 
-         int j = 0;
-         int k = l;
-         
-         while(i<a && j<b){
-             if(a1[i]<b1[j]){
-                 arr[k++] = a1[i++];
-             }else{
-                 arr[k++] = b1[j++];
-             }
-         }
-         
-         while(i<a){
-             arr[k++] = a1[i++];
-         }
-         while(j<b){
-             arr[k++] = b1[j++];
-         }
-    }
-    void mergeSort(int arr[], int l, int r)
-    {
-        //code here
-        if(l>=r){
-            return;
+class Solution {
+
+    void mergeSort(int arr[], int l, int r) {
+        // code here
+        
+        if(l<r){
+            int m = l +(r-l)/2;
+            
+            mergeSort(arr, l, m);
+            mergeSort(arr, m+1, r);
+            
+            merge(arr, l, m, r);
         }
         
-        int mid = l+(r-l)/2;
-        mergeSort(arr, l, mid);
-        mergeSort(arr, mid+1, r);
-        merge(arr, l, mid, r);
+    }
+    
+    void merge(int[] arr, int l, int m, int r){
+        int a = m-l+1;
+        int b = r-m;
+        
+        int[] x = new int[a];
+        int[] y = new int[b];
+        
+        for(int i = 0; i<a; i++){
+            x[i] = arr[l+i];
+        }
+        
+        for(int i = 0; i<b; i++){
+            y[i] = arr[m+1+i];
+        }
+        
+        
+        int i = 0; int j = 0;
+        int k = l;
+        
+        while(i<a && j<b){
+            if(x[i]<y[j]){
+                arr[k] = x[i];
+                i++;
+            }else{
+                arr[k] = y[j];
+                j++;
+            }
+            k++;
+        }
+        
+        while(i<a){
+            arr[k] =x[i];
+            i++;
+            k++;
+        }
+        
+        while(j<b){
+            arr[k] = y[j];
+            j++;
+            k++;
+        }
+        
     }
 }
