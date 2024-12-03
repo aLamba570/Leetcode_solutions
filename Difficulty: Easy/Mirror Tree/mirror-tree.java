@@ -101,7 +101,9 @@ class GfG {
             GfG mt = new GfG();
             mt.inOrder(root);
             System.out.println();
-        }
+        
+System.out.println("~");
+}
     }
 }
 
