@@ -291,3 +291,109 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/aLamba570/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
+
+
+
+# Care Tracker: System Requirements and Architecture
+
+## 1. Frontend Requirements
+
+The frontend of Care Tracker is designed to provide an intuitive and responsive user interface for patients, doctors, and administrators.
+
+**Technologies:**
+
+* **HTML:** For structuring web pages.
+* **CSS:** For styling and layout design.
+* **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
+* **JavaScript:** For dynamic interactions, form validations, and real-time updates.
+
+**Key Features:**
+
+* **Patient Panel:**
+    * User registration/login.
+    * Symptom input form for disease prediction.
+    * Appointment booking interface.
+    * Chatbot integration for queries and appointment scheduling.
+    * View medical records and AI-generated prescriptions.
+* **Doctor Panel:**
+    * Appointment management (approve/reject requests).
+    * Access to patient medical history.
+    * Real-time chat for consultations.
+* **Admin Panel:**
+    * User management (approve/reject doctor/patient registrations).
+    * Billing and financial transaction oversight.
+    * System monitoring and analytics.
+* **Responsiveness:**
+    * The UI is designed to work seamlessly across devices (desktop, tablet, mobile).
+
+## 2. Backend Requirements
+
+The backend handles business logic, data processing, and integration with machine learning models.
+
+**Technologies:**
+
+* **Django (Python):** A high-level Python framework for secure and scalable backend development.
+* **PostgreSQL:** A robust relational database for storing patient records, appointments, and billing data.
+
+**Key Features:**
+
+* **Authentication & Authorization:**
+    * Secure login for patients, doctors, and admins using Django’s built-in auth system.
+    * Role-based access control (RBAC) to restrict unauthorized actions.
+* **API Endpoints:**
+    * RESTful APIs for frontend-backend communication.
+    * Integration with Google Cloud services (Vertex AI, BigQuery).
+* **Disease Prediction Module:**
+    * Processes symptom inputs and communicates with ML models.
+    * Returns predictions in real-time.
+* **Chatbot & Appointment System:**
+    * Automated responses using Generative AI (Google Gemini).
+    * Appointment scheduling logic with conflict detection.
+* **Billing & Payments:**
+    * Secure transaction handling.
+    * Invoice generation and storage.
+
+## 3. System Requirements
+
+The system requires a combination of hardware, software, and cloud infrastructure to function optimally.
+
+**Hardware Requirements:**
+
+* **Server:** Minimum 4GB RAM, 2-core CPU for development; scalable cloud servers (GCP) for production.
+* **Storage:** SSD for database performance (scalable with PostgreSQL).
+
+**Software Requirements:**
+
+* **Operating System:** Linux (recommended for production), Windows/macOS for development.
+* **Python:** Version 3.8+ (for Django and ML libraries).
+* **Database:** PostgreSQL (version 12+).
+* **Web Server:** Gunicorn or uWSGI (for Django deployment), Nginx (reverse proxy).
+
+**Cloud & AI Integration:**
+
+* **Google Cloud Platform (GCP):**
+    * **Vertex AI:** For training and deploying ML models (Decision Tree, Random Forest, Naive Bayes).
+    * **BigQuery:** For real-time data analysis and storage.
+    * **Gemini API:** For AI-powered prescription generation.
+
+**Security:**
+
+* **HTTPS encryption (SSL/TLS).**
+* **Data encryption at rest and in transit.**
+* **Regular security audits for HIPAA/GDPR compliance (if applicable).**
+
+**Deployment:**
+
+* **Docker containers for easy scaling.**
+* **CI/CD pipelines (GitHub Actions/GitLab CI) for automated testing and deployment.**
+
+## Summary
+
+Care Tracker is a full-stack healthcare management system with:
+
+* **Frontend:** Interactive UI built with HTML, CSS, Tailwind, JavaScript.
+* **Backend:** Powered by Django (Python) and PostgreSQL.
+* **AI/ML:** Disease prediction using Scikit-learn, TensorFlow, and Google Gemini.
+* **Cloud:** Hosted on Google Cloud (Vertex AI, BigQuery) for scalability and real-time analytics.
+
+This architecture ensures efficiency, security, and a seamless user experience for patients, doctors, and administrators.
