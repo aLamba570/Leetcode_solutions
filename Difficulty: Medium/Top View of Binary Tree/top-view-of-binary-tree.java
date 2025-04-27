@@ -8,6 +8,7 @@ import java.util.Queue;
 
 
 // } Driver Code Ends
+
 // User function Template for Java
 
 /*
@@ -23,63 +24,53 @@ class Node{
 }
 */
 
-class Pair<K, V> {
-    private K key;
-    private V value;
 
-    public Pair(K key, V value) {
-        this.key = key;
-        this.value = value;
-    }
-
-    public K getKey() {
-        return key;
-    }
-
-    public V getValue() {
-        return value;
+class Pair {
+    Node node;
+    int line;
+    Pair(Node node, int line) {
+        this.node = node;
+        this.line = line;
     }
 }
 
 class Solution {
-    // Function to return a list of nodes visible from the top view
-    // from left to right in Binary Tree.
     static ArrayList<Integer> topView(Node root) {
-        // add your code
         ArrayList<Integer> list = new ArrayList<>();
-        
-        if(root == null){
+        if (root == null) {
             return list;
         }
-        
+
         Map<Integer, Integer> map = new TreeMap<>();
-        Queue<Pair<Node, Integer>> q = new LinkedList<>();
-        q.add(new Pair<>(root, 0));
+        Queue<Pair> q = new LinkedList<>();
         
-        while(!q.isEmpty()){
-            Pair<Node, Integer> pair = q.poll();
-            Node node = pair.getKey();
-            int line = pair.getValue();
-            
+        q.add(new Pair(root, 0));
+
+        while (!q.isEmpty()) {
+            Pair pair = q.poll();
+            Node node = pair.node;
+            int line = pair.line;
+
             if (!map.containsKey(line)) {
                 map.put(line, node.data);
             }
-            
-            if(node.left!=null){
-                q.add(new Pair<>(node.left, line-1));
+
+            if (node.left != null) {
+                q.add(new Pair(node.left, line - 1));
             }
-            
-            if(node.right != null){
-                q.add(new Pair<>(node.right, line+1));
+            if (node.right != null) {
+                q.add(new Pair(node.right, line + 1));
             }
         }
-        
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            list.add(entry.getValue());
+
+        for (int value : map.values()) {
+            list.add(value);
         }
         return list;
     }
 }
+
+
 
 //{ Driver Code Starts.
 
@@ -178,6 +169,8 @@ public class Tree {
             System.out.println();
 
             t--;
+
+            System.out.println("~");
         }
     }
 }
