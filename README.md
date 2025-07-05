@@ -106,6 +106,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/aLamba570/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aLamba570/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aLamba570/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/aLamba570/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aLamba570/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aLamba570/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aLamba570/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aLamba570/Leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aLamba570/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/aLamba570/Leetcode_solutions/tree/master/0338-counting-bits) |
